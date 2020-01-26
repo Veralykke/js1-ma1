@@ -15,24 +15,23 @@
 //const heading = document.querySelector("h3");
 //console.dir(heading);
 
-//const heading = document.querySelector(".Subheading");
-//console.dir(heading);
+
 
 //console.log(heading);
 
-//Question: 3 ??
+//Question: 3 
 
 //heading.style.fontSize = "2em";
 
 
-//Question: 4 ??
+//Question: 4 
 
 //heading.classList.add("Subheading");
 
 
 //document.querySelector(".h3").add("subheading")
 
-//Question: 5 ???
+//Question: 5 
 
 //const paragraphs = document.querySelectorAll("p");
 //console.dir(paragraphs);
@@ -105,7 +104,6 @@
 
 
 //Question: 10
-
 
 //function cat(catArray) {
 /* lagrer en  foreløbig tom variabel*/
